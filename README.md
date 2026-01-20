@@ -79,3 +79,18 @@ Tic_Tac_Toe.c — main source file
 ## Notes
 
 This project prioritizes correctness, controlled input handling, and readable C code over shortcuts or undefined behavior.
+
+## 📜 License
+
+>This project is open for learning and experimentation.
+>You may modify, distribute, or expand it freely.
+
+## 👤 Author
+
+Developed by: Nikhil Kumawat
+<br>
+Language: C
+<br>
+Project: Tic Tac Toe
+
+>“Childhood Memories 😌.”
